@@ -1,2 +1,5 @@
-package lapTrinhHuongDoiTuong;public class HelloWorld {
+package lapTrinhHuongDoiTuong;
+
+public class HelloWorld {
+
 }
